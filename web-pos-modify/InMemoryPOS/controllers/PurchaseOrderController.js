@@ -247,5 +247,5 @@ function saveOrder(){
             console.error(data);
             alert("Failed to save the order");
         },
-    })
+    });
 }
